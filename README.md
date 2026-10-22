@@ -4,7 +4,7 @@
 
 I turn business needs into clear processes, user stories, test cases and working ERP/CRM features — and check that what gets built matches what was asked.
 
-📱 0918 504 921 · 📧 hoquocbien03@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/hoquocbien/)
+🎂 28/11/2004 · 📱 0918 504 921 · 📧 hoquocbien03@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/hoquocbien/)
 
 ---
 
