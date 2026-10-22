@@ -22,7 +22,7 @@ I turn business needs into clear processes, user stories, test cases and working
 |---|---|---|---|
 | **CRM System for F&B Retail Chains on Odoo 19** (Graduation Thesis) | Business Analyst & QA | 2026 – now | Fit-Gap vs. standard Odoo; care & complaint tickets, CSAT/NPS surveys via email & QR code, care schedules, customer tiering; BPMN, user stories, test cases |
 | **AIoT Smart Aquaculture Ecosystem** – Thong Thuan Seafood | Team Leader, System Analyst | 01–04/2026 | BMC, As-Is/To-Be BPMN, IoT–Edge AI information flows; [web & mobile prototype (Figma)](https://www.figma.com/make/ovOYa09HS3cyisxlFvNiqU/Design-SCADA-Dashboard-Layout?p=f&t=BJ5Nb9u5zj69ta8C-0&fullscreen=1) |
-| **ERP Extension Module for Biti's** (Odoo 17–18) | BA & Module Developer | 09–12/2025 | Custom module auto-calculating sale price; 3 BPMN flows Sales → Inventory → Accounting; role-based access for 1,000+ SKUs · [code](https://github.com/hoquocbieqw/ERP_Odoo_Modules) |
+| **ERP Extension Module for Biti's** (Odoo 17–18) | Business Analyst (team of 4) | 09–12/2025 | Pricing pain-point analysis and business scenarios for a module auto-calculating sale price by category; BPMN 2.0 flows for production and multi-channel sales (Sales → Inventory → Accounting); demo videos · [repo](https://github.com/hoquocbieqw/ERP_Odoo_Modules) |
 | **Business Process Analysis & Redesign** – Chudu24 | Team Leader | 09–12/2025 | Enterprise Architecture, Ishikawa, 5 Whys, VA/NVA; API integration proposal raising Cycle Time Efficiency from 7.1% to 95%+ · [report](https://drive.google.com/drive/folders/1_MRJHh_L-XzL-i8U0itkdKx8DJZY1BTi?usp=sharing) |
 
 ## 🛠️ Skills
