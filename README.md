@@ -1,4 +1,4 @@
-# Hi, I'm Ho Quoc Bien 👋
+# Hi, I'm Ho Quoc Bien
 
 **Business Analyst / ERP Functional Consultant** · Final-year Information Systems (Digital Transformation) student at Van Lang University, Ho Chi Minh City.
 
